@@ -1,5 +1,8 @@
 # MPR Viewer🏥💊
 
+
+<picture> <img align="left" src="https://github.com/imfallah/MPR-Viewer-PyQt5/blob/main/public/mpr-banner.png"></picture>
+
 **MPR Viewer** is a powerful Multiplanar Reconstruction tool for viewing and reviewing medical imaging data, developed using PyQt5 and VTK. It is suitable for researchers, doctors, and students who are interested in medical image analysis.
 
 ---
